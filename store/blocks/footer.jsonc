@@ -311,7 +311,7 @@
       "blockClass": "titulo-insta",
       "textAlignment": "LEFT",
       "textPosition": "LEFT",
-      "text": "Síguenos en Instagram: [@PillinChile](https://www.instagram.com/pillinchile/)"
+      "text": "Síguenos en Instagram: [@PillinPeru](https://www.instagram.com/pillinperu)"
     }
   },
 
@@ -319,7 +319,7 @@
     "props": {
       "width": "100%",
       "height": "350px",
-      "src": "//lightwidget.com/widgets/f0b9d22644985bb191865517469b9900.html",
+      "src": "//lightwidget.com/widgets/13c839c2bf825e4190941742998f4af9.html",
       "blockClass": "iframeInsta"
     }
   },
