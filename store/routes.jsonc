@@ -15,14 +15,14 @@
     "path": "/contacto"
   },
 
-  "store.custom#trabaja-con-nosotros": {
-    "path": "/trabaja-con-nosotros"
-  },
+  //"store.custom#trabaja-con-nosotros": {
+  //  "path": "/trabaja-con-nosotros"
+  //},
 
-  "store.custom#tiendas": {
-    "path": "/tiendas"
-  }
-  
+  // "store.custom#tiendas": {
+  //   "path": "/tiendas"
+  // }
+
   // "store.custom#beneficiario": {
   //   "path": "/beneficiario"
   // },
@@ -30,5 +30,4 @@
   // "store.custom#cliente-pillin": {
   //   "path": "/cliente-pillin"
   // }
-  
 }

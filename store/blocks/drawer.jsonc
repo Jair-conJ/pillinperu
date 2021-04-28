@@ -1131,7 +1131,7 @@
       "rich-text#fono-mob",
       "rich-text#contacto-mob",
       "rich-text#mis-pedidos-mob",
-      "rich-text#tiendas-mob",
+      // "rich-text#tiendas-mob",
       "rich-text#whishlist-mob",
       "rich-text#faq-mob"
     ],

@@ -550,9 +550,9 @@
   "flex-layout.col#footer-menu-cor": {
     "children": [
       "rich-text#list-nosotros",
-      "rich-text#list-tiendas",
-      "rich-text#list-contacto",
-      "rich-text#list-trabaja"
+      // "rich-text#list-tiendas",
+      "rich-text#list-contacto"
+      // "rich-text#list-trabaja"
     ]
   },
   "rich-text#list-nosotros": {
@@ -570,7 +570,7 @@
       "textPosition": "LEFT",
       "text": "- [Tiendas](/stores)"
     }
-  },
+  }, 
   "rich-text#list-contacto": {
     "props": {
       "blockClass": "footer-list",
@@ -660,7 +660,7 @@
       "blockClass": "footer-list-face",
       "textAlignment": "LEFT",
       "textPosition": "LEFT",
-      "text": "- [Facebook](https://www.facebook.com/PillinChile)"
+      "text": "- [Facebook](https://www.facebook.com/pillinpe)"
     }
   },
   // Instagram
@@ -675,7 +675,7 @@
       "blockClass": "footer-list-insta",
       "textAlignment": "LEFT",
       "textPosition": "LEFT",
-      "text": "- [Instagram](https://www.instagram.com/pillinchile/)"
+      "text": "- [Instagram](https://www.facebook.com/pillinpe)"
     }
   },
 
