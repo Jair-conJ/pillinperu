@@ -59,7 +59,7 @@
 
     "flex-layout.col#left-list-topBar": {
         "children": [
-            // "rich-text#tiendas",
+            // "rich-text#tiendas", 
             "rich-text#fono",
             "rich-text#contacto"
         ],
