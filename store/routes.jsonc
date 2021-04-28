@@ -13,7 +13,7 @@
 
   "store.custom#contacto": {
     "path": "/contacto"
-  },
+  }
 
   //"store.custom#trabaja-con-nosotros": {
   //  "path": "/trabaja-con-nosotros"
