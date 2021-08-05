@@ -186,7 +186,8 @@
             "search-bar",
             "telemarketing",
             "login",
-            "minicart.v2"
+            "minicart.v2",
+            "rich-text#web-whatsapp"
         ]
     },
 
@@ -278,7 +279,8 @@
             "flex-layout.row#search-mobile-icon",
             "telemarketing",
             "login",
-            "minicart.v2"
+            "minicart.v2",
+            "rich-text#web-whatsapp"
         ],
         "props": {
             "blockClass": "main-header-mobile",
@@ -370,6 +372,16 @@
         "blocks": ["product-summary.shelf#busqueda"],
         "props": {
             "blockClass": "inteliSearch"
+        }
+    },
+
+    // Web Whatsapp
+    "rich-text#web-whatsapp": {
+        "props": {
+            "textAlignment": "CENTER",
+            "textPosition": "CENTER",
+            "text": "[Cotizar](https://wa.link/2m90u1?target=_blank)",
+            "blockClass": "web-whatsapp"
         }
     }
 }

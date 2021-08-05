@@ -664,6 +664,61 @@
     margin-bottom: 0;
 }
 
+/*Web Whatsapp Perú*/
+
+.container--web-whatsapp {
+    position: absolute;
+    left: 15px;
+    bottom: -88vh;
+}
+.paragraph--web-whatsapp {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.link--web-whatsapp {
+    position: relative;
+    text-decoration: none;
+    color: transparent;
+    display: block;
+    width: 70px;
+    height: 70px;
+}
+.link--web-whatsapp::after {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    background: url("assets/img/logo-web-whatsapp.png");
+    background-size: 70px;
+    background-repeat: no-repeat;
+    width: 70px;
+    height: 70px;
+    -webkit-animation: scale-down-center 3s cubic-bezier(0.600, 0.040, 0.980, 0.335) infinite alternate both;
+    animation: scale-down-center 3s cubic-bezier(0.600, 0.040, 0.980, 0.335) infinite alternate both;
+}
+
+@-webkit-keyframes scale-down-center {
+    0% {
+      -webkit-transform: scale(1);
+              transform: scale(1);
+    }
+    100% {
+      -webkit-transform: scale(0.5);
+              transform: scale(0.5);
+    }
+  }
+  @keyframes scale-down-center {
+    0% {
+      -webkit-transform: scale(1);
+              transform: scale(1);
+    }
+    100% {
+      -webkit-transform: scale(0.5);
+              transform: scale(0.5);
+    }
+  }
+
 @media (max-width: 991.1px) {
 
     .container--texto-seo {
@@ -764,6 +819,12 @@
 
     .paragraph--textGuiadeTallas {
         margin: 0;
+    }
+
+    .container--web-whatsapp {
+        position: absolute;
+        left: 5px;
+        bottom: -80vh;
     }
 
 }
